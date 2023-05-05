@@ -12,7 +12,7 @@ I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
 # Technology Used
-HTML, CSS, JavaScript, jQuery, Day,js
+HTML, CSS, JavaScript, jQuery, Day.js
 
 ## Acceptance Criteria
 GIVEN I am using a daily planner to create a schedule
@@ -30,5 +30,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Mock-Up
+![Users click the designated time and add this event reminder.](./assets/Screenshot%20calendar.png)
 
 ## Web Link
+https://alexeflorin.github.io/Calendar_Daily_Scheduling/
